@@ -1,0 +1,12 @@
+ul li {
+  color: blue;
+  text-align: center;
+  list-style: none;
+  text-decoration: lawngreen;
+  text-decoration: underline;
+}
+
+ul li p {
+  text-align: center;
+  font-weight: bold;
+}

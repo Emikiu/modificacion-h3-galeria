@@ -1,0 +1,36 @@
+.eventos {
+  margin-top: 20px;
+}
+
+.evento {
+  border: 2px solid gray;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: white;
+  margin-bottom: 10px;
+}
+
+.evento-header {
+  display: flex;
+}
+
+.evento-imagen {
+  width: 40%;
+}
+
+.evento-imagen img {
+  width: 100%;
+}
+
+.evento-titulo {
+  width: 60%;
+  margin-left: 10px;
+}
+
+.evento-fecha {
+  color: gray;
+}
+
+.evento-descripcion {
+  margin-top: 20px;
+}
